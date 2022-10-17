@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ErrorOr
 {
-    internal class test
+    internal class Test
     {
     }
 }
